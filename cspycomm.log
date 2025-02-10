@@ -1,0 +1,10 @@
+Mon Nov 18 16:50:07 2024: Log started
+Mon Nov 18 16:50:10 2024: DiGdiOpen(VersionH = 294, VersionL = 294, Parameters = -stlink3 -mcuname STM8S103F3P )
+Mon Nov 18 16:50:10 2024: DiGdiInitIO(DeviceFile = usb://usb)
+Mon Nov 18 16:50:10 2024: DiGdiVersion()
+Mon Nov 18 16:50:10 2024: DiGdiGetFeatures()
+Mon Nov 18 16:50:10 2024: DiGdiInitRegisterMap()
+Mon Nov 18 16:50:10 2024: DiGdiSetConfig(Mcu = STM8S103F3P)
+Mon Nov 18 16:50:10 2024: DiMemoryGetMap(Size = 100)
+Mon Nov 18 16:50:10 2024: DiMemoryRead(Address = 0x8000, Length = 128)
+Mon Nov 18 16:50:18 2024: DiGdiClose()

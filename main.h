@@ -1,0 +1,16 @@
+//#include <stm8s.h>
+#include <stm8s_it.h>
+#include <stdio.h>
+#include <system.h>
+#include <i2c.h>
+#include <Convert.h>
+#include <lcd16x2.h>
+#include <tim.h>
+#include <CreateFrame.h>
+#include <GetData.h>
+#include <Detect.h>
+#include <FSM.h>
+#include <uart.h>
+#include <Flash.h>
+#include <stm8s_gpio.c>
+#include <stm8s_uart1.c>
